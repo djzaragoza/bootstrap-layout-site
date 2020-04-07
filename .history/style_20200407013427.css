@@ -81,6 +81,4 @@ medium (md) devies (tablets, 768px and ulp)
 large (lg) devices (desktops, 992px and up)
 @media (min-width: 992px) {....}
 
-extra (xl) large deviecs (large desktops, 1200px and up)
-@media (min-width: 1200px) {....}
-*/
+extra 

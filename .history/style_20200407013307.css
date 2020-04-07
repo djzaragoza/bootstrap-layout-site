@@ -73,14 +73,4 @@ extra small (xs) devices (portrait phones, less than 576px)
 no media query since this is the default in bootstrap
 
 small (sm) devices (landscape phones, 576px and up)
-@media (min-width: 576px) {....}
-
-medium (md) devies (tablets, 768px and ulp)
-@media (min-width: 768px) {...}
-
-large (lg) devices (desktops, 992px and up)
-@media (min-width: 992px) {....}
-
-extra (xl) large deviecs (large desktops, 1200px and up)
-@media (min-width: 1200px) {....}
-*/
+@media (min-width: 576px
